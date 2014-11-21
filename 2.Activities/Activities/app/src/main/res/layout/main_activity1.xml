@@ -12,37 +12,34 @@
         android:layout_height="wrap_content"
         android:text="@string/main_activity1"
         android:id="@+id/btnMainActivity1"
+        android:layout_marginTop="58dp"
+        android:background="#ffff94a0"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="78dp"
-        android:background="#ffff94a0" />
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/main_activity2"
         android:id="@+id/btnMainActivity2"
+        android:background="#ff83ff76"
         android:layout_below="@+id/btnMainActivity1"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="41dp"
-        android:background="#ff83ff76" />
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/main_activity3"
         android:id="@+id/btnMainActivity3"
+        android:background="#ff989fff"
         android:layout_below="@+id/btnMainActivity2"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="50dp"
-        android:background="#ff989fff" />
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/color_picker"
         android:id="@+id/btnColorPicker"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="48dp" />
+        android:layout_below="@+id/btnMainActivity3"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
