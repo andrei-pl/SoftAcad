@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.andrey.catalog.DetailInfoActivity"
+    android:gravity="center_horizontal"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:minWidth="300dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/imgInfo" />
+
+    <TextView
+        android:layout_width="243dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/txtCondition"
+        android:textSize="32sp"
+        android:layout_below="@+id/txtYear"
+        android:layout_alignLeft="@+id/txtYear"
+        android:layout_alignStart="@+id/txtYear" />
+
+    <TextView
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/txtYear"
+        android:layout_gravity="center_horizontal"
+        android:textSize="32sp"
+        android:layout_below="@+id/txtModel"
+        android:layout_alignLeft="@+id/txtModel"
+        android:layout_alignStart="@+id/txtModel" />
+
+    <TextView
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/txtModel"
+        android:textSize="32sp"
+        android:layout_below="@+id/imgInfo"
+        android:layout_alignLeft="@+id/imgInfo"
+        android:layout_alignStart="@+id/imgInfo" />
+</RelativeLayout>
