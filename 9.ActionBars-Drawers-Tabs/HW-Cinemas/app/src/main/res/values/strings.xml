@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW-Cinemas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_cinema">CinemaActivity</string>
+    <string name="title_section1">All Cinemas</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Log Out</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="available_movies">Available movies</string>
+    <string name="cinema_address">Cinema address</string>
+    <string name="cinema_name">Cinema name</string>
+    <string name="played_in">Played in:</string>
+    <string name="available_seats">Available Seats: </string>
+    <string name="book_tickets">Book tickets now</string>
+    <string name="seats">Seats</string>
+    <string name="reserve">Reserve</string>
+
+</resources>
