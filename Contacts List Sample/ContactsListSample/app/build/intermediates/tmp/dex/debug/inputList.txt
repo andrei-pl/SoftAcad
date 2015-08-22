@@ -1,0 +1,4 @@
+C:\Users\Andrey\Documents\GitHub\SoftAcad\Contacts List Sample\ContactsListSample\app\build\intermediates\classes\debug
+C:\Users\Andrey\Documents\GitHub\SoftAcad\Contacts List Sample\ContactsListSample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ecc7417799e224ec22b84aeec8e666d28d7e5712.jar
+C:\Users\Andrey\Documents\GitHub\SoftAcad\Contacts List Sample\ContactsListSample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-50a48433a5910a94eaf21103fc57bc64eabd9b42.jar
+C:\Users\Andrey\Documents\GitHub\SoftAcad\Contacts List Sample\ContactsListSample\app\build\intermediates\pre-dexed\debug\classes-7cbea34c337a1bbdbab2579368389c6b4573b7d9.jar

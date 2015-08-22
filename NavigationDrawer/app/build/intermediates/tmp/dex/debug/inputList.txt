@@ -1,0 +1,2 @@
+C:\Users\Andrey\Documents\GitHub\SoftAcad\NavigationDrawer\app\build\intermediates\classes\debug
+C:\Users\Andrey\Documents\GitHub\SoftAcad\NavigationDrawer\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-3f82cb686dd29d32c3477158c953e814534742f6.jar

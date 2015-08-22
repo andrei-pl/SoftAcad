@@ -1,0 +1,9 @@
+{"countries":[
+    {"name":"Bulgaria", "inhabitants":"7 millions"}, 
+    {"name":"Italy", "inhabitants":"60 millions"}, 
+    {"name":"United Kingdom", "inhabitants":"64 millions"}],
+"cities":[
+    {"cityName":"Sofia", "inhabitants":"1.2 millions"}, 
+    {"cityName":"Rome", "inhabitants":"2.75 millions"}, 
+    {"cityName":"London", "inhabitants":"8.6 millions"}]
+}

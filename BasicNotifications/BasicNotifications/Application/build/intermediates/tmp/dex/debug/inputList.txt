@@ -1,0 +1,6 @@
+D:\Users\Desktop\BasicNotifications\Application\build\intermediates\classes\debug
+D:\Users\Desktop\BasicNotifications\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-e66215678940f83033c98f4d4a97940158fbdb54.jar
+D:\Users\Desktop\BasicNotifications\Application\build\intermediates\pre-dexed\debug\classes-91482a616074dbe4b30f1f2d48bf9f9b2d416eb7.jar
+D:\Users\Desktop\BasicNotifications\Application\build\intermediates\pre-dexed\debug\classes-55ab7bc18f5db4dade95423aeb152aef4e4c4806.jar
+D:\Users\Desktop\BasicNotifications\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-7e937e3c332fceac4983d18b7fbc452d90c3a668.jar
+D:\Users\Desktop\BasicNotifications\Application\build\intermediates\pre-dexed\debug\classes-0602010c2615b909db6ff96c79a2c5b3a5750330.jar
